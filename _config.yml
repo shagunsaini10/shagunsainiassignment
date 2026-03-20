@@ -1,3 +1,9 @@
 title: Project Assignment 1
 description: Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

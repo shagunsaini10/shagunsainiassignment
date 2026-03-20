@@ -1,6 +1,3 @@
----
-layout: default
----
 # Project Assignment 1 — Report
 ## Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 
